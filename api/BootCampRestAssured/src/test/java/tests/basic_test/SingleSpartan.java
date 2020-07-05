@@ -32,7 +32,7 @@ public class SingleSpartan {
 * */
     @Test
     public void test1(){
-
+        //hello
         given()
                 .log().uri()
                 .accept(ContentType.JSON)
